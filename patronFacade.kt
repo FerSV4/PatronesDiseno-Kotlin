@@ -52,7 +52,7 @@ class ProgramadorRecordatorios {
 
 class Notificador {
     fun mostrarNotificacion(tarea: Tarea) {
-        println("(Notificación): ${tarea.titulo} (${tarea.materia})")
+        println("(Notificacion): ${tarea.titulo} (${tarea.materia})")
     }
 }
 
